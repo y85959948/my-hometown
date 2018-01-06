@@ -8,7 +8,7 @@
   <hr />
   <a href="https://y85959948.github.io/food/.">家乡特产</a>
   <hr />
-  <a href="file:///home/always/Desktop/%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96.htm">历史文化</a>
+  <a href="https://y85959948.github.io/history/.">历史文化</a>
   <hr />
   <a href="file:///home/always/Desktop/%E4%BA%A4%E9%80%9A%E6%97%85%E6%B8%B8.htm">交通旅游</a>
   <hr />
