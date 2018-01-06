@@ -10,7 +10,7 @@
   <hr />
   <a href="https://y85959948.github.io/history/.">历史文化</a>
   <hr />
-  <a href="file:///home/always/Desktop/%E4%BA%A4%E9%80%9A%E6%97%85%E6%B8%B8.htm">交通旅游</a>
+  <a href="https://y85959948.github.io/traffic/.">交通旅游</a>
   <hr />
   </body>
 </html>
