@@ -4,7 +4,7 @@
   <body background="timg4.png">
   <a href="https://y85959948.github.io/test/">返回主页</a>
   <hr />
-  <a href="file:///home/always/Desktop/%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE.htm">地理位置</a>
+  <a href="https://y85959948.github.io/location/.">地理位置</a>
   <hr />
   <a href="file:///home/always/Desktop/%E5%AE%B6%E4%B9%A1%E7%89%B9%E4%BA%A7.htm">家乡特产</a>
   <hr />
